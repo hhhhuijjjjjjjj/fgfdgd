@@ -4,7 +4,7 @@ local Window = Library.CreateLib("الصيد البري", "GrapeTheme")
 local Tab = Window:NewTab("mods")
 local Ta = Window:NewTab("اوتو صيد")
 local Section = Ta:NewSection("الهاك بواسطه i_5o5")
-local gf = Tab:NewSection("سرعه")
+local gf = Tab:NewSection("الهاك بواسطه i_5o5")
 Section:NewButton("بيع", "تبيع وانت بمكانك", function()
 local args = {
     [1] = "SellAll"
@@ -55,3 +55,6 @@ gf:NewSlider("سرعه لاعب", "تسريع لاعب", 500, 16, function(s) --
 end)
 print("نشكر لك للتجربه السكربت")
 print("مالك السكربت i_5o5")
+print("حسابي سناب شات SL_109e")
+print("1122qqqqqqqqsss#9229 حسابي دسكورد")
+print("قروبي اسمه جيسل")
